@@ -14,6 +14,7 @@ We recommend that you review our CSS Grid Essentials lesson before beginning.
 The premade index.html and style.css files are displayed for you. 
 
 Link to Lesson
+---------------
 
 https://www.codecademy.com/courses/learn-intermediate-css/projects/css-grid-task-board
 
